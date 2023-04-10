@@ -17,3 +17,16 @@ body {
 .register-btn, .login-btn {
   margin-top: 10px;
 }
+
+.login, .register {
+  text-align: center;
+}
+
+.btn-social {
+  width: 90%;
+}
+
+.btn-submit {
+  margin-top: 10px;
+}
+
